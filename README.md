@@ -43,7 +43,7 @@ int main() {
 }
 ~~~
 
-##OUTPUT:
+## OUTPUT:
 <img width="940" height="452" alt="image" src="https://github.com/user-attachments/assets/bdef4571-bb3a-4f18-8113-1a0c67e58a00" />
 
 # PROGRAM:
@@ -93,7 +93,7 @@ int main() {
 
 
 
-##OUTPUT
+## OUTPUT
 ## C Program to execute Linux system commands using Linux API system calls exec() , exit() , wait() family
 <img width="940" height="452" alt="image" src="https://github.com/user-attachments/assets/77c83b14-bbaf-4fa2-b2b9-6a1164471e9c" />
 
